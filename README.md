@@ -13,4 +13,5 @@ To run localy use command (Чтобы запустить локально исп
 
 ```docker-compose up --build```
 
-And the API will be available at localhost:80
+And the API will be available at localhost/docs
+API будет доступно по ссылке localhost/docs
