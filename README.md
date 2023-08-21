@@ -1,7 +1,7 @@
 # Simple API application using an architectural approach.
 # Простое приложение API, с использованием архитектурного подхода.
 
-# Used technologies (Использованные технологии):
+## Used technologies (Использованные технологии):
 - FastAPI
 - Async Postgres
 - Alembic
