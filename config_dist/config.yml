@@ -1,0 +1,8 @@
+db:
+  type: postgresql
+  connector: asyncpg
+  host: db
+  port: 5432
+  login: postgres
+  password: postgres
+  name: postgres
